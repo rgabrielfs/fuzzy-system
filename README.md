@@ -7,4 +7,5 @@ Instale requirements.txt para rodar o programa.
 - Henrique Maia
 - João Menna
 - João Izidoro
+- Nicolas Borges
 - Ricardo Fialho
