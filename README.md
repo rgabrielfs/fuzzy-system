@@ -4,7 +4,7 @@ Instale requirements.txt para rodar o programa.
 
 ## Integrantes
 
-Henrique Maia
-João Menna
-João Izidoro
-Ricardo Fialho
+- Henrique Maia
+- João Menna
+- João Izidoro
+- Ricardo Fialho
